@@ -66,6 +66,9 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <finalName>
+    javamaven
+    </finalName>
   </build>
   
 </project>
