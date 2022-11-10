@@ -67,7 +67,7 @@
       </plugins>
     </pluginManagement>
     <finalName>
-    javamaven
+    docker-direct-push
     </finalName>
   </build>
   
